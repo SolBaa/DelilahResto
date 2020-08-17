@@ -297,19 +297,19 @@ definitions:
     properties:
       Username:
         type: "string"
-        example: Solbaa
+        example: SolBaa
       Fullname:
         type: "string"
         example: Sol Battaglia
       Email:
         type: "string"
-        example: solbattaglia@gmail.com
+        example: solbaa@hotmail.com
       Phone number:
         type: "string"
         example: 3468408136
       Shipping adress:
         type: "string"
-        example: montevideo 1313
+        example: Montevideo 139
       Password:
         type: "string"
         example: hola123
@@ -318,7 +318,7 @@ definitions:
     properties:
       Username:
         type: "string"
-        example: SolBaa
+        example: Solchu
       Password:
         type: "string"
         example: hola123
